@@ -1,0 +1,6 @@
+---
+plugin: kubevirt
+connections:
+  - namespaces:
+      - openshift-cnv
+      - vms
